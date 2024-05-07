@@ -1,0 +1,6 @@
+@OnlineCoachSystem_HostAddress = http://localhost:5002
+
+GET {{OnlineCoachSystem_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
